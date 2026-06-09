@@ -1,0 +1,41 @@
+# Geotecnia1 — Copiapó
+
+> Geotechnical engineering services in Copiapó, Chile.
+
+## Services
+- [Aislacion Sismica](https://copiapo.geotecnia1.vip/aislacion-sismica/)
+- [Anclajes](https://copiapo.geotecnia1.vip/anclajes/)
+- [Cbr Vial](https://copiapo.geotecnia1.vip/cbr-vial/)
+- [Cimentaciones](https://copiapo.geotecnia1.vip/cimentaciones/)
+- [Cimentaciones Superficiales](https://copiapo.geotecnia1.vip/cimentaciones-superficiales/)
+- [Columnas Grava](https://copiapo.geotecnia1.vip/columnas-grava/)
+- [Densidad Cono Arena](https://copiapo.geotecnia1.vip/densidad-cono-arena/)
+- [Ensayo Cpt](https://copiapo.geotecnia1.vip/ensayo-cpt/)
+- [Ensayo Triaxial](https://copiapo.geotecnia1.vip/ensayo-triaxial/)
+- [Excavaciones Profundas](https://copiapo.geotecnia1.vip/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://copiapo.geotecnia1.vip/excavaciones-subterraneo/)
+- [Exploracion](https://copiapo.geotecnia1.vip/exploracion/)
+- [Geofisica](https://copiapo.geotecnia1.vip/geofisica/)
+- [Geotecnia Vial](https://copiapo.geotecnia1.vip/geotecnia-vial/)
+- [Grouting](https://copiapo.geotecnia1.vip/grouting/)
+- [Laboratorio In Situ](https://copiapo.geotecnia1.vip/laboratorio-in-situ/)
+- [Laboratorio Lab](https://copiapo.geotecnia1.vip/laboratorio-lab/)
+- [Limites Atterberg](https://copiapo.geotecnia1.vip/limites-atterberg/)
+- [Losa De Cimentacion](https://copiapo.geotecnia1.vip/losa-de-cimentacion/)
+- [Masw Vs30](https://copiapo.geotecnia1.vip/masw-vs30/)
+- [Mejoramiento](https://copiapo.geotecnia1.vip/mejoramiento/)
+- [Microzonificacion Sismica](https://copiapo.geotecnia1.vip/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://copiapo.geotecnia1.vip/monitoreo-excavaciones/)
+- [Pavimento Flexible](https://copiapo.geotecnia1.vip/pavimento-flexible/)
+- [Pilotes](https://copiapo.geotecnia1.vip/pilotes/)
+- [Placa De Carga](https://copiapo.geotecnia1.vip/placa-de-carga/)
+- [Sismica](https://copiapo.geotecnia1.vip/sismica/)
+- [Sondaje Spt](https://copiapo.geotecnia1.vip/sondaje-spt/)
+- [Taludes](https://copiapo.geotecnia1.vip/taludes/)
+
+## Contact
+- Website: https://copiapo.geotecnia1.vip/
+
+## About
+This site provides geotechnical engineering services in Copiapó, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
